@@ -1,1 +1,5 @@
 This is my first git bash file.
+This is my first git bash file.
+This is my first git bash file.
+This is my first git bash file.
+This is my first git bash file.
