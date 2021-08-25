@@ -13,3 +13,4 @@ console.log(multiplyByTwo2(3,5));
 
 let multiplyByThree = multiply.bind(this, 3);
 console.log(multiplyByThree(3));
+
